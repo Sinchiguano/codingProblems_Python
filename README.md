@@ -1,3 +1,3 @@
 # codingProblems_Python
-![top_page](/image/1.png)
-![top_page](/image/2.png)
+![top_page](/Image/1.png)
+![top_page](/Image/2.png)
